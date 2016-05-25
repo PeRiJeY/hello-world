@@ -1,5 +1,6 @@
 # hello-world
 Proyecto siguiendo tutorial Hello World de Github
 
-1ยบ Cambio inicial realizado sobre el master
-2ยบ Cambio realizado sobre el branch readme-edit
+1บ Cambio inicial realizado sobre el master
+2บ Cambio realizado sobre el branch readme-edit
+3บ Cambio realizado en el master DESPUES de crear el branch y ANTES de hacer el merge
